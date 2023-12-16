@@ -15,16 +15,10 @@
 
   <p align="center">
     </br>
-    This is the API that I developed utilizing the *Node.js* framework for <a href="https://github.com/caglayagmuricerr/notes-app"><strong>Notable-Now</strong></a>, the cutest note-taking application.
+    This is the API that I developed utilizing the *Node.js* framework for <strong>Notable-Now</strong>, the cutest note-taking application.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/caglayagmuricerr/notes-app"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
